@@ -8,12 +8,31 @@
       "bundleIdentifier": "mrpsnspace.HotspotGPS",
       "developerName": "psn",
       "subtitle": "Share GPS coordinates via Personal Hotspot",
-      "description": "Share GPS coordinates via Personal Hotspot",
-      "version": "1.0.0",
+      "localizedDescription": "Share GPS coordinates via Personal Hotspot",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-22",
+          "localizedDescription": "Share GPS coordinates via Personal Hotspot",
+          "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.0.0/HotspotGPS.ipa",
+          "size": 261391
+        }
+      ],
       "versionDate": "2026-05-22",
       "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.0.0/HotspotGPS.ipa",
       "iconURL": "https://github.com/flexserg/HotspotGPS-app/blob/main/logofast_1779065148845.png",
-      "size": 261391
+      "size": 261391,
+      "appPermissions": 
+        {
+          "entitlements": [],
+          "privacy": [
+            {
+              "name": "location",
+              "description": "This app accesses your location in the background to provide continuous tracking updates."
+            }
+          ]
+      }
     }
   ]
 }

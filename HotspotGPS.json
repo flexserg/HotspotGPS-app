@@ -26,13 +26,7 @@
       "appPermissions": 
         {
           "entitlements": [],
-          "privacy": [
-            {
-              "name": "location",
-              "description": "GPS Tether Server needs your location to stream GPS data.",
-              "NSlocationUsageDescription": "This app accesses your location in the background to provide continuous tracking updates."
-            }
-          ]
+          "privacy": []
       }
     }
   ]

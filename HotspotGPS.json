@@ -28,7 +28,7 @@
           "entitlements": [],
           "privacy": 
             {
-              "name": "location",
+              "type": "location",
               "NSlocationUsageDescription": "This app accesses your location in the background to provide continuous tracking updates."
           }
       }

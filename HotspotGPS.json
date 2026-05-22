@@ -29,7 +29,7 @@
           "privacy": 
             {
               "type": "location",
-              "NSlocationUsageDescription": "This app accesses your location in the background to provide continuous tracking updates."
+              "NSLocationUsageDescription": "This app accesses your location in the background to provide continuous tracking updates."
           }
       }
     }

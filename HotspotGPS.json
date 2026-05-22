@@ -28,10 +28,7 @@
           "entitlements": [],
           "privacy": [
             {
-              "NSlocationUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
-              "NSlocationWhenInUseUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
-              "NSlocationAlwaysAndWhenInUseUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
-              "NSlocationAlwaysUsageDescription": "GPS Tether Server needs your location in the background to keep streaming GPS data."
+              "NSlocationUsageDescription": "GPS Tether Server needs your location to stream GPS data."
             }
           ]
       }

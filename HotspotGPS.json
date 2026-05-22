@@ -28,6 +28,7 @@
           "entitlements": [],
           "privacy": [
             {
+              "name": "location",
               "NSlocationUsageDescription": "GPS Tether Server needs your location to stream GPS data."
             }
           ]

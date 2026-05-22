@@ -28,8 +28,10 @@
           "entitlements": [],
           "privacy": [
             {
-              "name": "location",
-              "NSlocationUsageDescription": "This app accesses your location in the background to provide continuous tracking updates."
+              "NSlocationUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
+              "NSlocationWhenInUseUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
+              "NSlocationAlwaysAndWhenInUseUsageDescription": "GPS Tether Server needs your location to stream GPS data.",
+              "NSlocationAlwaysUsageDescription": "GPS Tether Server needs your location in the background to keep streaming GPS data."
             }
           ]
       }

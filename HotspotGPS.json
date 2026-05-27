@@ -11,16 +11,16 @@
       "localizedDescription": "Share GPS coordinates via Personal Hotspot",
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.1",
           "buildVersion": "1",
-          "date": "2026-05-22",
+          "date": "2026-05-27",
           "localizedDescription": "Share GPS coordinates via Personal Hotspot",
-          "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.0.0/HotspotGPS.ipa",
-          "size": 260857
+          "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.1.0/HotspotGPS.ipa",
+          "size": 255356
         }
       ],
-      "versionDate": "2026-05-22",
-      "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.0.0/HotspotGPS.ipa",
+      "versionDate": "2026-05-27",
+      "downloadURL": "https://github.com/flexserg/HotspotGPS-app/releases/download/v1.1.0/HotspotGPS.ipa",
       "iconURL": "https://github.com/flexserg/HotspotGPS-app/blob/main/logofast_1779065148845.png",
       "size": 260548,
       "appPermissions": 
